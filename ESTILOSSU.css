@@ -1,0 +1,66 @@
+html{
+    font-family: 'Spirax', cursive;
+    font-size: 50px;
+}
+
+body {
+    background-color:blue;
+}
+/* selecciones simples*/
+
+h1{
+    color:violet
+}
+
+h3{
+    color:yellow
+}
+
+h3{
+    color:red
+}
+
+#frutas li {
+    color: white;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p#paragrafo-id{
+    color: white;
+}
+
+p {
+    color: blue;
+}
+
+.laviso {
+    padding: 0.5em;
+    border: 1px solid #98be10;
+    background: #f6feda;
+  }
+
+
+ }
+.pepino
+ {
+    background-color: aquamarine;
+    color: blueviolet;
+    font-size: 30px;
+}
+
+[propiedad]="valor propiedad"  {
+    width= 100%;
+    
+}
+
+/*cambiar el tamaño letra cuando se pasa por la palabra Seudoclases*/
+
+ul li:nth-child(1):hover {
+    font-size: 50px;
+}
+
+/*seudoelemento*/
+.pepito::after{
+    content: "&";
+}
+

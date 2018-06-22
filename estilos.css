@@ -1,0 +1,32 @@
+body {
+    background-color: red;
+}
+p#paragrafo-id{
+    color: white;
+}
+
+p {
+    color: blue;
+}
+
+#polite
+{
+    font-family: cursive
+}
+ul li#primero {
+    color:white;
+}
+div p span {
+    color: yellow;
+}
+
+.pepito¨{
+    background-color: aquamarine;
+    color: blueviolet;
+    font-size: 30px;
+}
+
+[propiedad]="valor propiedad"  {
+    width= 100%;
+    
+}

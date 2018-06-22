@@ -1,0 +1,41 @@
+div{
+    border: 1px solid black;
+}
+
+div.main-container{
+    padding: 20px; 10px 10px
+    background-color: yellow;
+    overflow-y: hidden;
+    
+}
+
+div.header{
+    width: 100%;
+    height: 120px;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+div.main-content{
+    width: 100%;
+    height: 120px;
+}
+
+div.main-content div.side-bar{
+    float: left;
+    height: 100px;
+    width: calc(50% - 4px) ;
+}
+
+div.main-content div.aditional-content{
+    width: 100%;
+    height: 120px;
+    top:0;
+    border:1px;
+}
+
+div.footer{
+    width: 100%;
+    height: 120px;
+}
+

@@ -1,0 +1,8 @@
+!DOCTYPE HTML>
+<html>
+    <HEAD>
+        <META CHARSET="UTTF-8">
+            <TITLE> HOJA DE VIDA</TITLE>
+    <HEAD>
+    <BODY>
+      <P>PERFIL PROFESIONAL</P>
